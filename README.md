@@ -1,2 +1,2 @@
-# Sathishraja
+# PROJECT
 Earthquake prediction
